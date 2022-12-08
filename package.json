@@ -3,7 +3,7 @@
   "icon": "images/icon.png",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/barnesoir/chatgpt-vscode-plugin"
+    "url": "https://github.com/dashenxian/chatgpt-vscode-plugin-zh"
   },
   "publisher": "xiaoshenxian",
   "displayName": "ChatGPT VSCode Plugin zh",
