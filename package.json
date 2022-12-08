@@ -8,7 +8,7 @@
   "publisher": "xiaoshenxian",
   "displayName": "ChatGPT VSCode Plugin zh",
   "description": "A ChatGPT integration build using ChatGPT & 9 beers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.73.0"
   },
