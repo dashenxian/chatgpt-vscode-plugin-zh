@@ -1,14 +1,14 @@
 {
-  "name": "chatgpt-vscode-plugin",
+  "name": "chatgpt-vscode-plugin-zh",
   "icon": "images/icon.png",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/barnesoir/chatgpt-vscode-plugin"
   },
-  "publisher": "JayBarnes",
-  "displayName": "ChatGPT VSCode Plugin",
+  "publisher": "xiaoshenxian",
+  "displayName": "ChatGPT VSCode Plugin zh",
   "description": "A ChatGPT integration build using ChatGPT & 9 beers",
-  "version": "1.1.4",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.73.0"
   },
