@@ -16,10 +16,10 @@ export async function activate(context: vscode.ExtensionContext) {
 		})
 	);
 
-	async function askGPTToExplain() { await askChatGPT('Can you explain what this code does?'); }
-	async function askGPTWhyBroken() { await askChatGPT('Why is this code broken?'); }
-	async function askGPTToRefactor() { await askChatGPT('Can you refactor this code and explain what\'s changed?'); }
-	async function askGPTToAddTests() { await askChatGPT('Can you add tests for this code?'); }
+	async function askGPTToExplain() { await askChatGPT('请解释这段代码?'); }
+	async function askGPTWhyBroken() { await askChatGPT('为什么这段代码会报错?'); }
+	async function askGPTToRefactor() { await askChatGPT('可以重构一下这段代码并说一下重构后和以前的代码有什么区别?'); }
+	async function askGPTToAddTests() { await askChatGPT('请为这段代码添加测试代码?'); }
 
 	async function resetToken() {
 		await context.globalState.update('chatgpt-session-token', null);

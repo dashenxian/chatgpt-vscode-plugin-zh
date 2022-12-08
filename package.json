@@ -53,19 +53,19 @@
       },
       {
         "command": "chatgpt-vscode-plugin.addTests",
-        "title": "ChatGPT: Add tests"
+        "title": "ChatGPT: 请为这段代码添加测试代码"
       },
       {
         "command": "chatgpt-vscode-plugin.whyBroken",
-        "title": "ChatGPT: Why is it broken?"
+        "title": "ChatGPT: 为什么这段代码会报错?"
       },
       {
         "command": "chatgpt-vscode-plugin.explainPls",
-        "title": "ChatGPT: Explain code"
+        "title": "ChatGPT: 请解释这段代码"
       },
       {
         "command": "chatgpt-vscode-plugin.refactor",
-        "title": "ChatGPT: Refactor"
+        "title": "ChatGPT: 可以重构一下这段代码并说一下重构后和以前的代码有什么区别"
       },
       {
         "command": "chatgpt-vscode-plugin.resetToken",
